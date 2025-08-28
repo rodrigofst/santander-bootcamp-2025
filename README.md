@@ -1,7 +1,7 @@
 # Bootcamp Santander 2025
 Java RESTful API criada para o bootcamp Santander.
 
-##Diagrama de classes
+## Diagrama de classes
 
 ```mermaid
 classDiagram

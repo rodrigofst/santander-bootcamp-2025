@@ -1,0 +1,25 @@
+{
+  "name": "Usuario",
+  "account": {
+    "number": "000000000-0",
+    "agency": "0000",
+    "balance": 1324.23,
+    "limit": 1000.0
+  },
+  "features": [
+    {
+      "icon": "URL",
+      "description": "Descricao da feature"
+    }
+  ],
+  "card": {
+    "number": "xxxx xxxx xxxx xxxx",
+    "limit":  1000.00
+  },
+  "news": [
+    {
+      "icon": "URL",
+      "description": "descricao da novidade"
+    }
+  ]
+}

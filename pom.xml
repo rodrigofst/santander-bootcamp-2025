@@ -69,9 +69,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<mainClass>
-						<manifest>
-							<mainClass>com.exemplo.Main</mainClass>
-						</manifest>
+						Santander_bootcamp.Application
 					</mainClass>
 				</configuration>
 			</plugin>
